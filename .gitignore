@@ -1,2 +1,3 @@
 *.txt
 /UCI HAR Dataset/
+/.Rhistory
